@@ -1,0 +1,60 @@
+
+
+.inp-1{
+    width: 240px;
+    height: 23px;
+    outline: none;
+}
+
+.inp-2{
+    width: 240px;
+    height: 23px;
+    /* margin-left: 15px; */
+    outline: none;
+}
+
+.inp-3{
+    width: 240px;
+    height: 23px;
+    outline: none;
+}
+
+.inp-4{
+    width: 240px;
+    height: 23px;
+    margin-left: 15px;
+    outline: none;
+}
+
+.inp-5{
+    width: 507px;
+    height: 23px;
+    outline: none;
+}
+
+.inp-6{
+    width: 240px;
+    height: 23px;
+    outline: none;
+}
+
+.inp-7{
+    width: 240px;
+    height: 23px;
+    margin-left: 15px;
+    outline: none;
+}
+
+.inp-8{
+    width: 507px;
+    height: 130px;
+    outline: none;
+}
+.button{
+    color: white;
+    background-color: darkblue;
+    border: none;
+    width: 115px;
+    height: 30px;
+    border-radius: 30px;
+}
